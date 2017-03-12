@@ -1,0 +1,16 @@
+.playground {
+  width: 300 + px;
+  height: 400 + px;
+  background: #333;
+  margin: 250px auto 0;
+  position: relative;
+  overflow: hidden;
+}
+
+.deck {
+  background: rgba(255,255,255,.8);
+}
+
+.card {
+  background: #f00;
+}

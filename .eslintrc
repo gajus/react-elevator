@@ -1,0 +1,14 @@
+{
+  "extends": [
+    "canonical",
+    "canonical/react",
+    "canonical/flowtype"
+  ],
+  "root": true,
+  "rules": {
+    "flowtype/no-weak-types": 0,
+    "import/no-unassigned-import": 0,
+    "react/no-set-state": 0,
+    "react/sort-comp": 0
+  }
+}
